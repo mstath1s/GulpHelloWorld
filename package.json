@@ -1,0 +1,30 @@
+{
+  "name": "web-starter-kit",
+  "version": "0.0.0",
+  "description": "HelloWorld",
+  "main": "index.js",
+  "scripts": {
+    "test": "testit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mstath1s/GulpHelloWorld.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Meletis Stathis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mstath1s/GulpHelloWorld/issues"
+  },
+  "homepage": "https://github.com/mstath1s/GulpHelloWorld",
+  "devDependencies": {
+    "gulp": "^3.8.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-concat": "^2.2.0",
+    "gulp-jshint": "^1.6.3",
+    "gulp-uglify": "^0.3.0",
+    "gulp-sass": "^0.7.2"
+  }
+}
